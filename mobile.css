@@ -1,9 +1,19 @@
 * {
     box-sizing: border-box;
     font-family: Inter;
+    /* width: 320px; */
+    align-items: center;
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* justify-content: space-around; */
 }
 
-
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 
 .next {
     display: flex;
